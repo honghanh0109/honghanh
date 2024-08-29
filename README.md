@@ -34,7 +34,7 @@
 
     <p>Mèo là động vật có vú, nhỏ nhắn và chuyên ăn thịt, sống chung với loài người, được nuôi để săn vật gây hại hoặc làm thú nuôi cùng với chó. Mèo đã sống gần gũi với loài người ít nhất 9.500 năm, và hiện nay chúng là con vật cưng phổ biến nhất trên thế giới</P>
     <p style="text-align: center;">
-       <img src="./img/meo.jpg" style="width:600px ; height=auto"
+       <img src="IMG_5431.png" style="width:600px ; height=auto"
     </p>
     <p style="color: aqua;"> Đoạn text dưới cuối trang </p>
 </body>
